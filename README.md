@@ -10,7 +10,7 @@
 
 ## 使用方法
 
-从`release`下载并将`speedUpPowershell.exe`放入`启动`目录。
+从 [release](https://github.com/xxnuo/speedUpPowershell/releases) 下载`speedUpPowershell.exe`并将其放入`启动`目录。
 
 `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp`
 
