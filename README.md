@@ -25,3 +25,33 @@
 杀毒软件可能会误报或者拦截，因为程序会在后台启动一个 Powershell
 
 自行添加白名单即可。
+
+# English
+
+# Powershell Startup Accelerator
+
+## Introduction
+
+The most suitable shell for Windows 10 and above is only Powershell,
+
+However, the initial startup speed of Powershell is unbearably slow.
+
+So I wrote this simple program.
+
+## How to use
+
+Download `speedUpPowershell.exe` from [release](https://github.com/xxnuo/speedUpPowershell/releases) and place it in the `StartUp` directory.
+
+`C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp`
+
+That's it, the program will automatically start after each login,
+
+The program will start a Powershell in the background and print a string before exiting,
+
+Achieving the purpose of accelerating the second startup of Powershell.
+
+## Note
+
+Antivirus software may give false positives or intercept because the program will start a Powershell in the background.
+
+Just add it to the whitelist on your own.
